@@ -51,7 +51,7 @@ void peep(struct node *h){
 int main(){
 	struct node *head = NULL;
 	int opt = 0;
-	printf("\t\t********** ARRAY STACK **********\n");
+	printf("\t\t********** LINKED LIST STACK **********\n");
 	printf("Options:\n1. Push\n2. Pop\n3. Peep\n4. Exit");
 
 	while(opt != 4){
